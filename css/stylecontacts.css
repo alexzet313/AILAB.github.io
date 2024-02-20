@@ -1,0 +1,277 @@
+.page2{
+    width: 1260px;
+    height: 150px;
+    margin: auto;
+    background-color: rgb(49, 82, 159);
+  }
+  
+  li{
+    display: inline; 
+    margin: 20px;
+  }
+  
+  ul1{
+    position: absolute;
+    top: 60px;
+    left: 130px;
+  }
+  
+  
+  
+  .link:hover { 
+    color: rgb(4, 4, 4);
+    text-decoration: underline; 
+    font-size: 20px;
+    font-family: Raleway;
+  }
+  
+  .link{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Raleway;
+  }
+
+  body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #847e7e;
+  }
+  
+  .header{
+    position: relative;
+  }
+
+  .background{
+    background-color: rgb(49, 82, 159);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 130px;
+    background-size: cover;
+  }
+  
+  .background header{
+    position: relative;
+  }
+  
+  .LOGOLAB{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+  }
+
+
+.tabl{
+    position: relative;
+    background-color: rgb(#847e7e);
+    height: 20px;
+    top: 20px
+}
+
+  .card{
+    position: relative;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+   
+  }
+
+
+  .card-photo{
+    position: absolute;
+    
+    
+}
+
+.card-body{
+    position: relative;
+    left: 610px;
+    top: 10px;
+}
+  
+.card-title{
+    color: #ffffff;
+}
+
+.card-text{
+    color: #ffffff;
+}
+
+
+.bg-warning{
+    position: relative;
+    height: 900px;
+    background-color: rgb(49, 82, 159);
+    
+}
+
+.card-title1{
+    position: relative;
+    color: #ffffff;
+    top: 20px;
+    left: 500px;
+}
+
+.map{
+    top: 50px;
+}
+
+.form-label1{
+    font-size: 25px;
+    position: relative;
+    color: #ffffff;
+    top: 60px;
+    
+
+}
+
+.form-label2{
+  font-size: 25px;
+    position: relative;
+    color: #ffffff;
+    top: 80px;
+    
+
+}
+
+.form-label3{
+  font-size: 25px;
+    position: relative;
+    color: #ffffff;
+    top: 80px;
+    
+
+}
+
+.form-control1{
+  font-size: 25px;
+    position: relative;
+    color: #ffffff;
+    top: 60px;
+    font-size: 25px;
+    left: 200px;
+
+}
+
+.form-control2{
+    position: relative;
+    color: #ffffff;
+    top: 80px;
+    left: 245px;
+    font-size: 25px;
+
+}
+
+.form-control3{
+    position: relative;
+    color: #ffffff;
+    top: 100px;
+    left: 15px;
+    font-size: 25px;
+
+}
+
+
+.col-12{
+  position: relative;
+  top: 120px;
+  font-size: 15px;
+  
+}
+
+
+
+
+  .greyback1{
+    position: relative;
+    height: 310px;
+    background-color: #000000;
+    
+  }
+  
+  .textgrey1{
+    color: #ffffff;
+    position: absolute;
+    font-size: 18px;
+    font-family: Arial;
+    top: 100px;
+    left: 520px;
+    font-weight: bold;
+  }
+  
+  .textgrey2{
+    color: #ffffff;
+    position: absolute;
+    font-size: 18px;
+    font-family: Arial;
+    top: 120px;
+    left: 520px;
+    font-weight: bold;
+  }
+  
+  .textgrey3{
+    color: #ffffff;
+    position: absolute;
+    font-size: 18px;
+    font-family: Arial;
+    top: 140px;
+    left: 520px;
+  }
+  
+  
+  .textgrey4{
+    color: #ffffff;
+    position: absolute;
+    font-size: 11px;
+    font-family: Arial;
+    top: 250px;
+    left: 520px;
+    font-weight: bold;
+  }
+  
+  #square {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: rgb(0, 0, 0);
+    top: 170px;
+    left: 603px;
+  }
+  
+  .LOGOLAB2{
+    position: absolute;
+    top: 170px;
+    left: 603px;
+  }
+  
+  
+  .link11:hover { 
+    color: rgb(254, 254, 254);
+    text-decoration: underline; 
+    font-size: 20px;
+    font-family: Raleway;
+  
+  }
+  
+  .link11{
+    color: rgb(255, 255, 255);
+    position: relative;
+    font-size: 20px;
+    font-family: Raleway;
+    top: 20px;
+    left: 450px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
